@@ -1,3 +1,5 @@
+// Implement a function to convert temperature from Celsius to Fahrenhit.
+
 #include <stdio.h>
 
 float celsiusToFahrenheit(float celsius)

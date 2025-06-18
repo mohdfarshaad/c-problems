@@ -1,3 +1,5 @@
+// Implement a calculator using switch and basic arithmetic operations.
+
 #include <stdio.h>
 
 int main()

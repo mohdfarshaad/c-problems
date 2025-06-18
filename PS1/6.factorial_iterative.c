@@ -1,3 +1,5 @@
+// Write a function to calculate the factorial of a number using an iterative method.
+
 #include <stdio.h>
 
 long factorial(int n)
